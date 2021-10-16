@@ -44,11 +44,11 @@ class _MyAppState extends State<MyApp> {
             ),
 
 
-           Answer(_answerQuestion),
+           Answer(selectHandler: _answerQuestion),
 
-           Answer(_answerQuestion),
+           Answer(selectHandler: _answerQuestion),
 
-           Answer(_answerQuestion),
+           Answer(selectHandler: _answerQuestion),
 
             
              
